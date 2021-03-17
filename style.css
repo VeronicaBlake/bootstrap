@@ -1,0 +1,7 @@
+.booch-image{
+    background-size: cover;
+    text-shadow: 1px 1px rgb(233, 228, 228);
+    background-position: center;
+    background-image: url(booch.jpeg);
+    min-height: 200px;
+}
