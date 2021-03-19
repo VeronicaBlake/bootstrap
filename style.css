@@ -1,7 +1,21 @@
-.booch-image{
+.boochers-image{
     background-size: cover;
-    text-shadow: 1px 1px rgb(233, 228, 228);
+    color:rgb(230, 243, 50);
+    text-shadow: 1px 1px rgb(24, 23, 23);
     background-position: center;
-    background-image: url(booch.jpeg);
+    background-image: url(boochers.jpeg);
     min-height: 200px;
+}
+
+.indent{
+    text-indent: -28px;
+    padding-left: 28px;
+}
+
+.footer{
+    position: absolute;
+    bottom:0;
+    flex-direction:column;
+    flex-grow:1;
+    min-height: 5rem;
 }
